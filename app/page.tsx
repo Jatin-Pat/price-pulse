@@ -20,7 +20,7 @@ const Home = () => {
 
             <h1 className='head-text'>
               unleash the power of
-              <span className='text-primary'> Price Plus</span>
+              <span className='text-primary'> PricePlus</span>
             </h1>
             <p className='mt-6'>
             Receive automated notifications when the price of your favorite products drops or
